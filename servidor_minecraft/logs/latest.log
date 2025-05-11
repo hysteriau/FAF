@@ -256,3 +256,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [11May2025 22:53:43.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vhszzz lost connection: Disconnected
 [11May2025 22:53:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz left the game
 [11May2025 22:53:43.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vhszzz
+[11May2025 23:01:46.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vhszzz[/127.178.240.143:43049] logged in with entity id 317 at (-8.699999988079071, 73.0, 36.112725947382145)
+[11May2025 23:01:46.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz joined the game
+[11May2025 23:01:48.802] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vhszzz (18)
+[11May2025 23:01:48.802] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vhszzz
+[11May2025 23:02:40.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has completed the challenge [Assassin Class]
