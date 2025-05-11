@@ -261,3 +261,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [11May2025 23:01:48.802] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vhszzz (18)
 [11May2025 23:01:48.802] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vhszzz
 [11May2025 23:02:40.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has completed the challenge [Assassin Class]
+[11May2025 23:05:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Alex's Mobs]
+[11May2025 23:07:17.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Ice Bucket Challenge]
+[11May2025 23:09:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Stone Age]
+[11May2025 23:10:19.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Getting an Upgrade]
