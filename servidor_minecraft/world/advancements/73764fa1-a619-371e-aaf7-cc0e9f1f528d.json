@@ -997,6 +997,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-12 00:09:23 +0000",
       "minecraft:spider": "2025-05-12 00:18:22 +0000",
+      "minecraft:enderman": "2025-05-12 02:09:20 +0000",
       "minecraft:zombie": "2025-05-11 23:20:55 +0000"
     },
     "done": false
@@ -1009,6 +1010,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-12 02:13:56 +0000",
       "chicken": "2025-05-12 00:30:48 +0000",
       "cooked_mutton": "2025-05-12 01:52:47 +0000",
       "beef": "2025-05-12 00:07:16 +0000",
@@ -1583,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-12 01:53:42 +0000"
@@ -1655,9 +1663,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-12 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:11:42 +0000"
     },
     "done": true
   },
@@ -1682,6 +1702,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-12 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-12 02:14:32 +0000"
     },
     "done": true
   },

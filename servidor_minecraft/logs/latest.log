@@ -278,3 +278,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [12May2025 01:52:21.329] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vhszzz (18)
 [12May2025 01:52:21.329] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vhszzz
 [12May2025 01:54:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Pic-A-Nic Basket?]
+[12May2025 02:24:03.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vhszzz lost connection: Disconnected
+[12May2025 02:24:03.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz left the game
+[12May2025 02:24:03.204] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vhszzz
