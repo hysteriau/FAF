@@ -265,3 +265,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [12May2025 00:41:00.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vhszzz lost connection: Disconnected
 [12May2025 00:41:00.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz left the game
 [12May2025 00:41:00.610] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vhszzz
+[12May2025 00:44:42.649] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7be89534[id=<null>,name=vhszzz,properties={},legacy=false] (/127.178.240.143:42775) lost connection: Disconnected
+[12May2025 00:44:49.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vhszzz[/127.178.240.143:48001] logged in with entity id 10280 at (410.7655981171095, 101.0, 207.01174722364763)
+[12May2025 00:44:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz joined the game
+[12May2025 00:44:50.423] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vhszzz (18)
+[12May2025 00:44:50.424] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vhszzz
+[12May2025 00:45:18.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vhszzz lost connection: Disconnected
+[12May2025 00:45:18.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz left the game
+[12May2025 00:45:18.752] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vhszzz
