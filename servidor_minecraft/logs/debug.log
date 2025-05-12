@@ -2297,3 +2297,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [12May2025 00:28:30.090] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [12May2025 00:28:30.092] [Server thread/DEBUG] [mixin/]: curios.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
 [12May2025 00:28:30.092] [Server thread/DEBUG] [mixin/]: curios.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[12May2025 00:32:21.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 00:32:21.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 00:37:21.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 00:37:21.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 00:41:00.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vhszzz lost connection: Disconnected
+[12May2025 00:41:00.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz left the game
+[12May2025 00:41:00.608] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of vhszzz
+[12May2025 00:41:00.610] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vhszzz

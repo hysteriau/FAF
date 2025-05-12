@@ -13,7 +13,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-12 00:35:37 +0000",
       "minecraft:river": "2025-05-11 23:06:22 +0000",
+      "minecraft:cold_ocean": "2025-05-12 00:31:37 +0000",
       "minecraft:forest": "2025-05-11 09:25:16 +0000",
       "minecraft:plains": "2025-05-11 22:53:37 +0000"
     },
@@ -1007,10 +1009,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-05-12 00:30:48 +0000",
       "beef": "2025-05-12 00:07:16 +0000",
       "porkchop": "2025-05-11 23:21:25 +0000",
       "mutton": "2025-05-12 00:11:06 +0000",
-      "rotten_flesh": "2025-05-12 00:17:52 +0000"
+      "rotten_flesh": "2025-05-12 00:17:52 +0000",
+      "cooked_salmon": "2025-05-12 00:33:01 +0000"
     },
     "done": false
   },
@@ -1428,9 +1432,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-12 00:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-12 00:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-12 00:30:40 +0000"
     },
     "done": true
   },
@@ -1443,6 +1459,12 @@
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2025-05-12 00:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-12 00:31:46 +0000"
     },
     "done": true
   },
@@ -1464,9 +1486,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-12 00:35:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-12 00:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-12 00:29:54 +0000"
     },
     "done": true
   },
@@ -1482,9 +1516,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-12 00:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-12 00:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-12 00:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-12 00:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-12 00:31:46 +0000"
     },
     "done": true
   },
@@ -1503,6 +1561,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-12 00:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-12 00:29:54 +0000"
     },
     "done": true
   },

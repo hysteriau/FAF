@@ -262,3 +262,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [12May2025 00:11:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
 [12May2025 00:12:07.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz was slain by Rocky Roller
 [12May2025 00:20:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Cover Me with Diamonds]
+[12May2025 00:41:00.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vhszzz lost connection: Disconnected
+[12May2025 00:41:00.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz left the game
+[12May2025 00:41:00.610] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vhszzz
