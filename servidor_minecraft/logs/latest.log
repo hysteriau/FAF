@@ -281,3 +281,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [12May2025 02:24:03.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vhszzz lost connection: Disconnected
 [12May2025 02:24:03.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz left the game
 [12May2025 02:24:03.204] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vhszzz
+[12May2025 02:36:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12May2025 02:36:46.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12May2025 02:36:46.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12May2025 02:36:46.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12May2025 02:36:46.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12May2025 02:36:47.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12May2025 02:36:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12May2025 02:36:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12May2025 02:36:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12May2025 02:36:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12May2025 02:36:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
