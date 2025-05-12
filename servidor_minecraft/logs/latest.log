@@ -259,3 +259,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [12May2025 00:02:26.942] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vhszzz
 [12May2025 00:02:27.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [12May2025 00:10:09.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Not Today, Thank You]
+[12May2025 00:11:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[12May2025 00:12:07.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz was slain by Rocky Roller
+[12May2025 00:20:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vhszzz has made the advancement [Cover Me with Diamonds]
