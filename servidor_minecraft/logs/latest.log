@@ -1,30 +1,30 @@
-[07:31:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:forge
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:geckolib
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:playeranimator
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:jei
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:tacz
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:curios
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:citadel
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:alexsmobs
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:securitycraft
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:armoroftheages
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:mixinextras
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:connectormod
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:immediatelyfast
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:yet_another_config_lib_v3
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:terralith
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:carryon
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:skinlayers3d
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:paraglider
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:cloth_config
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:voicechat
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:bettercombat
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:appleskin
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:rpgsmw
-[07:31:23] [ServerMain/WARN]: Missing data pack mod:cosmeticarmorreworked
-[07:31:23] [ServerMain/WARN]: Missing data pack tacz_resources
-[07:31:24] [ServerMain/WARN]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
+[07:33:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:forge
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:geckolib
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:playeranimator
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:jei
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:tacz
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:curios
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:citadel
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:alexsmobs
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:securitycraft
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:armoroftheages
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:mixinextras
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:connectormod
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:immediatelyfast
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:yet_another_config_lib_v3
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:terralith
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:carryon
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:skinlayers3d
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:paraglider
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:cloth_config
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:voicechat
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:bettercombat
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:appleskin
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:rpgsmw
+[07:33:20] [ServerMain/WARN]: Missing data pack mod:cosmeticarmorreworked
+[07:33:20] [ServerMain/WARN]: Missing data pack tacz_resources
+[07:33:20] [ServerMain/WARN]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
 java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Overworld settings missing
 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073) ~[?:?]
